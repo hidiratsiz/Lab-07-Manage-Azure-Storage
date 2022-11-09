@@ -63,7 +63,7 @@ You have now mounted your Azure file share.
 <img src="https://github.com/hidiratsiz/Lab-07-Manage-Azure-Storage/blob/main/vm-adding-file.png" width="900px" align="center">
 
 ### file sharing image in virtual machine
-<img src="https://github.com/hidiratsiz/Lab-07-Manage-Azure-Storage/blob/lastscreen.png" width="900px" align="center">
+<img src="https://github.com/hidiratsiz/Lab-07-Manage-Azure-Storage/blob/main/lastscreen.png" width="900px" align="center">
 
 
 ##  Manage blob storage
