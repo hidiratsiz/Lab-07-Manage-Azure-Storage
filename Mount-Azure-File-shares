@@ -9,3 +9,7 @@ Select the drive letter to mount the share to.
 Copy the provided script and Paste the script into a shell on the host you'd like to mount the file share to, and run it.
 
 You have now mounted your Azure file share.
+
+<img src="https://github.com/hidiratsiz/Lab-07-Manage-Azure-Storage/blob/main/Mount-Azure-file-share.pnf" width="900px" align="center">
+
+<img src="https://github.com/hidiratsiz/Lab-07-Manage-Azure-Storage/blob/main/Mount-Azure-file-share1.png" width="900px" align="center">
