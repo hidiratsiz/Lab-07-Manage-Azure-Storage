@@ -45,3 +45,15 @@ In this task, you will create a blob container and upload a blob into it.
 <img src="https://github.com/hidiratsiz/Lab-07-Manage-Azure-Storage/blob/main/containers-upload1.png" width="900px" align="center">
 
 <img src="https://github.com/hidiratsiz/Lab-07-Manage-Azure-Storage/blob/main/containers-upload3.png" width="900px" align="center">
+
+
+
+## az104-05-vnet0 |Virtual Network  Diagram
+
+<img src="https://github.com/hidiratsiz/Lab-07-Manage-Azure-Storage/blob/main/az104-05-vnet0.png" width="900px" align="center">
+
+
+## az104-07-rg0 | Resource visualizer
+
+
+<img src="https://github.com/hidiratsiz/Lab-07-Manage-Azure-Storage/blob/main/az104-07-rg0.png" width="900px" align="center">
