@@ -8,10 +8,13 @@ In this lab, I will:
  4. Manage authentication and authorization for Azure Storage
  5. Create and configure an Azure Files shares
  6. Manage network access for Azure Storage
+
+ ## Architecture diagram
+
 <img src="https://github.com/hidiratsiz/Lab-07-Manage-Azure-Storage/blob/main/az104-task.png" width="500px" align="center">
 
 
-##Mount the Azure file share
+## Mount the Azure file share
 
 Navigate to the storage account that contains the file share you'd like to mount.
 
