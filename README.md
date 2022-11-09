@@ -14,6 +14,29 @@ In this lab, I will:
 <img src="https://github.com/hidiratsiz/Lab-07-Manage-Azure-Storage/blob/main/az104-task.png" width="500px" align="center">
 
 
+
+
+We create the architectural structure indicated in the picture above
+
+1. Resource groups
+2. Virtual machines
+3. Storage accounts
+
+After creating the network we will have will be like the picture below
+
+
+## az104-05-vnet0 |Virtual Network  Diagram
+
+<img src="https://github.com/hidiratsiz/Lab-07-Manage-Azure-Storage/blob/main/az104-05-vnet0.png" width="900px" align="center">
+
+
+## az104-07-rg0 | Resource visualizer
+
+
+<img src="https://github.com/hidiratsiz/Lab-07-Manage-Azure-Storage/blob/main/az104-07-rg0.png" width="900px" align="center">
+
+
+
 ## Mount the Azure file share
 
 Navigate to the storage account that contains the file share you'd like to mount.
@@ -50,13 +73,11 @@ In this task, you will create a blob container and upload a blob into it.
 <img src="https://github.com/hidiratsiz/Lab-07-Manage-Azure-Storage/blob/main/containers-upload3.png" width="900px" align="center">
 
 
+Review
+In this lab, you have:
 
-## az104-05-vnet0 |Virtual Network  Diagram
-
-<img src="https://github.com/hidiratsiz/Lab-07-Manage-Azure-Storage/blob/main/az104-05-vnet0.png" width="900px" align="center">
-
-
-## az104-07-rg0 | Resource visualizer
-
-
-<img src="https://github.com/hidiratsiz/Lab-07-Manage-Azure-Storage/blob/main/az104-07-rg0.png" width="900px" align="center">
+Provisioned the lab environment
+Created and configured Azure Storage accounts
+Managed blob storage
+Created and configured Azure Files shares
+Managed network access for Azure Storage
