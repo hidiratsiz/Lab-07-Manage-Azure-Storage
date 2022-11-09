@@ -1,0 +1,11 @@
+Mount the Azure file share
+
+Navigate to the storage account that contains the file share you'd like to mount.
+
+Select File shares.
+Select the file share you'd like to mount.
+Select Connect.
+Select the drive letter to mount the share to.
+Copy the provided script and Paste the script into a shell on the host you'd like to mount the file share to, and run it.
+
+You have now mounted your Azure file share.
